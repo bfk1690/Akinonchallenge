@@ -1,0 +1,38 @@
+{
+    "SELECTED_API": "api1",
+    "API1": {
+        "url": [
+            "https://via.placeholder.com/800x600/BD463C",
+            "https://via.placeholder.com/800x600/7A2E27",
+            "https://via.placeholder.com/800x600/FA5E50",
+            "https://via.placeholder.com/800x600/3B1613",
+            "https://via.placeholder.com/800x600/E05548"
+        ]
+    },
+    "API2": {
+        "images": [{
+            "link": [
+                "https://via.placeholder.com/600x1000/468DBD",
+                "https://via.placeholder.com/600x1000/2D5C7A",
+                "https://via.placeholder.com/600x1000/5CBBFA",
+                "https://via.placeholder.com/600x1000/162C3B",
+                "https://via.placeholder.com/600x1000/53A8E0"
+            ]
+        }]
+    },
+    "API3": {
+        "swipers": [{
+            "swiper": {
+                "image_set": [{
+                    "image_url:": [
+                        "https://via.placeholder.com/800x800/8EBD37",
+                        "https://via.placeholder.com/800x800/5C7A23",
+                        "https://via.placeholder.com/800x800/BCFA48",
+                        "https://via.placeholder.com/800x800/2C3B11",
+                        "https://via.placeholder.com/800x800/A9E042"
+                    ]
+                }]
+            }
+        }]
+    }
+}
